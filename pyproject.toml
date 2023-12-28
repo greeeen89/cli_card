@@ -1,0 +1,12 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Ryley Oroku", email = "greeeenmango89@gmail.com"},
+]
+dependencies = [
+    "asciimatics>=1.15.0",
+]
+requires-python = ">=3.9"
+license = {text = "MIT"}
